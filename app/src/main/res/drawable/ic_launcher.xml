@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#1B4332"
+        android:pathData="M54,4 C26,4 4,26 4,54 C4,82 26,104 54,104 C82,104 104,82 104,54 C104,26 82,4 54,4Z"/>
+    <!-- head -->
+    <path android:fillColor="#95D5B2"
+        android:pathData="M54,22 C58,22 61,25 61,29 C61,33 58,36 54,36 C50,36 47,33 47,29 C47,25 50,22 54,22Z"/>
+    <!-- torso -->
+    <path android:fillColor="#95D5B2"
+        android:pathData="M48,40 L60,40 L58,62 L50,62Z"/>
+    <!-- crossed legs (lotus) -->
+    <path android:fillColor="#FFFDF5"
+        android:pathData="M26,72 C34,58 46,62 54,66 C62,62 74,58 82,72 C74,80 62,78 54,74 C46,78 34,80 26,72Z"/>
+</vector>
